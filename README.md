@@ -59,21 +59,8 @@ The dashboard enables quick identification of sales trends, regional performance
 
 ---
 
-## 🚀 How to Use
-1. Open the dashboard in **Power BI / Tableau / Excel**.  
-2. Explore filters by **Category, Region, Year, and State**.  
-3. Compare profitability trends across years and regions.  
-4. Use state-level insights to identify high-performing markets.  
-
----
-
 ## 📌 Applications
 - Monitoring automobile sales performance  
 - Identifying profitable regions and categories  
 - Tracking customer ratings for quality improvement  
 - Strategic planning for revenue growth and market expansion  
-
----
-
-## 📧 Contact
-For queries or collaboration, please connect via **LinkedIn** or raise issues on **GitHub**.
